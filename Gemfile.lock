@@ -58,7 +58,7 @@ GEM
     rake (11.1.2)
     smart_properties (1.15.0)
     thread_safe (0.3.6)
-    tzinfo (1.2.3)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
 
 PLATFORMS
